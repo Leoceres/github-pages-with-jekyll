@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome Spencer's Website!"
 ---
 
-I'm glad you are here. I plan to talk about ...
+I'm a 21 year old Korean-American who has a love for coding!
